@@ -1,3 +1,5 @@
+> [Video de con las traspas](https://www.youtube.com/watch?v=pUbgPrPg5CA)
+
 # GraphQL using AWS AppSync
 
 This tutorial explains how to take advantage of the GraphQL features of AWS AppSync. 
